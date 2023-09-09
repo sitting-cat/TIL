@@ -130,3 +130,6 @@ dmypy.json
 
 # VSCode Setup Files
 .vscode/
+
+# private file
+private.php
